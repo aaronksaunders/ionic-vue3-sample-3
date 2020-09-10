@@ -1,9 +1,10 @@
-# VueJS Ionic Capacitor Sample Firebase File Upload Composition API - Vue3 Ionic BETA
+# VueJS Ionic Capacitor Sample Firebase Firebase Composition API - Vue3 Ionic BETA
 > updated 9/10/2020
 > - File Upload
 > - Login / LogOut
 > - Auth Check At Start
 > - Delete Upload Images
+> - Hooks for Authentication and File Storage
 
 ### Camera Working In PWA/Website/On Device
 
