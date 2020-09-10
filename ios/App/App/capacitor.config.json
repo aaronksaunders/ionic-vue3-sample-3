@@ -1,0 +1,8 @@
+{
+  "appId": "com.fiwic.ionicvuebeta3",
+  "appName": "ionic-vue-beta3",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "cordova": {}
+}
