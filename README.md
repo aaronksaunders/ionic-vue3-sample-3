@@ -1,6 +1,6 @@
 ### 📺 [IONIC VUE3 VIDEOS](https://www.youtube.com/playlist?list=PL2PY2-9rsgl2uKW0DB5FJ-YRCAG-JuSWN)
 
-# VueJS Ionic Capacitor Sample Firebase Firebase Composition API - Vue3 Ionic BETA
+# Vue 3 Ionic Capacitor Sample App Using Firebase Hook Composition API ( version 3 )
 > updated 9/10/2020
 > - File Upload
 > - Login / LogOut
