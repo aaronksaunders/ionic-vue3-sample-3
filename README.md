@@ -7,6 +7,9 @@
 > - Auth Check At Start
 > - Delete Upload Images
 > - Hooks for Authentication and File Storage
+>
+> - PART TWO, Firebase Integration - https://github.com/aaronksaunders/ionic-vue3-sample-2
+> - PART THREE, Firebase Integration - https://github.com/aaronksaunders/ionic-vue3-sample-3
 
 ### Camera Working In PWA/Website/On Device
 
