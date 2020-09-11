@@ -50,6 +50,16 @@ export default function() {
   const storageRef = firebase.storage().ref();
 
   /**
+   * 
+   * @param path 
+   */
+  const deleteFile = async (path: string) => {
+    return firebase
+      .storage()
+      .ref(path)
+      .delete();
+  };
+  /**
    * call this function to get the list of files
    * is the storage bucket
    */
@@ -151,7 +161,7 @@ export default function() {
     progress,
     uploadData,
     listFiles,
+    deleteFile,
     files,
   };
 }
-
