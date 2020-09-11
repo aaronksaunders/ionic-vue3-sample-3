@@ -1,3 +1,5 @@
+### 📺 [IONIC VUE3 VIDEOS](https://www.youtube.com/playlist?list=PL2PY2-9rsgl2uKW0DB5FJ-YRCAG-JuSWN)
+
 # VueJS Ionic Capacitor Sample Firebase Firebase Composition API - Vue3 Ionic BETA
 > updated 9/10/2020
 > - File Upload
