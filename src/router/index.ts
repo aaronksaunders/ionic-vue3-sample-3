@@ -17,10 +17,7 @@ const routes: Array<RouteRecordRaw> = [
     name: "login",
     component: () => import("@/views/LoginPage.vue"),
   },
-  {
-    path: "/image-detail/:url",
-    component: () => import("@/views/ImageDetail.vue"),
-  },
+
   {
     path: "/tabs/",
     component: Tabs,
@@ -32,6 +29,12 @@ const routes: Array<RouteRecordRaw> = [
       {
         path: "upload",
         component: () => import("@/views/Home.vue"),
+        children :[
+          {
+            path: "/image-detail/:url",
+            component: () => import("@/views/ImageDetail.vue"),
+          }
+        ]
       },
       {
         path: "list",

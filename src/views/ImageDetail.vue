@@ -42,6 +42,7 @@ export default defineComponent({
     IonImg
   },
   setup() {
+    debugger;
     const r = useRoute();
     const url = r.params["url"];
     return { url };
